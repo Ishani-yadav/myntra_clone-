@@ -48,18 +48,17 @@ This is a **static front-end clone** of the Myntra homepage. No JavaScript or ba
   
 
 ## 📁 Folder Structure
-'''
-myntra_clone-/
-│
-├── index.html # Main HTML file for homepage
-├── css/
-│ └── styles.css # All CSS styles including responsive design
-├── images/
-│ ├── banner.jpg # Banner images used on homepage
-│ ├── product1.jpg # Sample product images
-│ └── ... # Additional assets (icons, logos, etc.)
-└── README.md # Project documentation
-'''
+
+'''   myntra_clone-/
+     │
+     ├── index.html # Main HTML file for homepage
+     ├── css/
+     │ └── styles.css # All CSS styles including responsive design
+     ├── images/
+     │ ├── banner.jpg # Banner images used on homepage
+     │ ├── product1.jpg # Sample product images
+     │ └── ... # Additional assets (icons, logos, etc.)
+     └── README.md # Project documentation'''
 
 
 ## 📬 Contact
