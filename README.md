@@ -48,7 +48,7 @@ This is a **static front-end clone** of the Myntra homepage. No JavaScript or ba
   
 
 ## 📁 Folder Structure
-
+'''
 myntra_clone-/
 │
 ├── index.html # Main HTML file for homepage
@@ -59,6 +59,7 @@ myntra_clone-/
 │ ├── product1.jpg # Sample product images
 │ └── ... # Additional assets (icons, logos, etc.)
 └── README.md # Project documentation
+'''
 
 
 ## 📬 Contact
